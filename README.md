@@ -1,3 +1,3 @@
-# simple-app-on-DRF-Vue.js-Docker
+# todo list (DRF Vue.js)
 ## django==2.2.1
-## vue.js==2
+## vue.js==2.*
